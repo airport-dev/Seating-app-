@@ -1,14 +1,14 @@
 <template>
   <div>
-    <header>
-      <h1>index.vue</h1>
+    <div>
+      <h1>list.vue</h1>
       <hr />
-    </header>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "IndexPage",
+  name: "listPage",
 };
 </script>
